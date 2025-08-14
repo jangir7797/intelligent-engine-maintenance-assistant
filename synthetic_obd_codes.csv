@@ -1,0 +1,14 @@
+code,description,severity,system,estimated_repair_cost
+P0171,System Too Lean (Bank 1),Low,Engine,1276
+P0174,System Too Lean (Bank 2),Medium,Emission,721
+P0300,Random/Multiple Cylinder Misfire Detected,Low,Electrical,506
+P0401,Insufficient EGR Flow,Critical,Engine,272
+P0420,Catalyst System Efficiency Below Threshold,Low,Emission,1102
+P0442,Evaporative Emission Control System Leak Detected,Low,Electrical,964
+P0506,Idle Control System RPM Lower Than Expected,Critical,Emission,1989
+P2002,Diesel Particulate Filter Efficiency Below Threshold,High,Engine,803
+P2563,Turbocharger Boost Control Position Sensor Circuit,Critical,Fuel,1288
+P0087,Fuel Rail/System Pressure Too Low,Medium,Emission,1528
+P0016,Crankshaft Position Camshaft Position Correlation,Low,Engine,1706
+P0128,Coolant Thermostat Temperature Below Threshold,Low,Fuel,1558
+P0455,Evaporative Emission Control System Leak (gross leak),High,Engine,2031
